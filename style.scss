@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family: "Kodchasan", sans-serif;
+    background-color: rgb(67, 14, 14);
+}
+
+header{
+    display: flex;
+
+
+
+
+
+ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    width: 86vw;
+    height: 8vh;
+    justify-content: space-around;
+    font-size: 25px;
+}
+
+li {
+    text-transform: uppercase;
+}
+
+}
